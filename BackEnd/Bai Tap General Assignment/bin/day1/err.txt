@@ -1,0 +1,4 @@
+Line 1 co loi dinh dang so dien thoai va email 
+Line 2 co loi dinh dang email 
+Line 3 co loi dinh dang so dien thoai va email 
+

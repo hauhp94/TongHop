@@ -1,0 +1,118 @@
+INFO    2021-11-23 15:59:37,545 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:01:34,729 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:01:54,524 [main] manager.Main  - The system has encountered an unexpected problem, sincerely sorry !!!
+INFO    2021-11-23 16:04:57,705 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:05:23,991 [main] manager.Main  - For input string: "G"
+INFO    2021-11-23 16:10:45,699 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:12:09,445 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:12:31,763 [main] manager.Main  - For input string: "RAAA"
+INFO    2021-11-23 16:18:38,006 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:19:50,035 [main] manager.Main  - INFO
+DEBUG   2021-11-23 16:19:50,040 [main] manager.Main  - DEBUG
+WARN    2021-11-23 16:19:50,041 [main] manager.Main  - WARN
+ERROR   2021-11-23 16:19:50,041 [main] manager.Main  - ERROR
+FATAL   2021-11-23 16:19:50,041 [main] manager.Main  - FATAL
+INFO    2021-11-23 16:19:56,415 [main] manager.Main  - SQLServerPreparedStatement:1
+ERROR   2021-11-23 20:41:56,989 [main] manager.Main  - ERROR
+FATAL   2021-11-23 20:41:57,044 [main] manager.Main  - FATAL
+INFO    2021-11-23 20:58:56,835 [main] manager.Main  - INFO
+DEBUG   2021-11-23 20:58:56,841 [main] manager.Main  - DEBUG
+WARN    2021-11-23 20:58:56,841 [main] manager.Main  - WARN
+ERROR   2021-11-23 20:58:56,841 [main] manager.Main  - ERROR
+FATAL   2021-11-23 20:58:56,842 [main] manager.Main  - FATAL
+INFO    2021-11-23 20:59:02,932 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 21:00:17,161 [main] manager.Main  - INFO
+DEBUG   2021-11-23 21:00:17,166 [main] manager.Main  - DEBUG
+WARN    2021-11-23 21:00:17,166 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:00:17,166 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:00:17,166 [main] manager.Main  - FATAL
+WARN    2021-11-23 21:00:20,936 [main] manager.Main  - da nhap sai lua chon
+INFO    2021-11-23 21:17:52,837 [main] manager.Main  - INFO
+DEBUG   2021-11-23 21:17:52,839 [main] manager.Main  - DEBUG
+WARN    2021-11-23 21:17:52,840 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:17:52,840 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:17:52,840 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:17:56,711 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 21:18:28,496 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:18:28,497 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:21:14,768 [main] manager.Main  - INFO
+DEBUG   2021-11-23 21:21:14,771 [main] manager.Main  - DEBUG
+WARN    2021-11-23 21:21:14,771 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:21:14,771 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:21:14,772 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:21:17,264 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 07:41:50,375 [main] manager.Main  - INFO
+DEBUG   2021-11-24 07:41:50,381 [main] manager.Main  - DEBUG
+WARN    2021-11-24 07:41:50,382 [main] manager.Main  - WARN
+ERROR   2021-11-24 07:41:50,382 [main] manager.Main  - ERROR
+FATAL   2021-11-24 07:41:50,383 [main] manager.Main  - FATAL
+INFO    2021-11-24 07:41:59,525 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-24 07:42:21,119 [main] manager.CandidateManager  - For input string: "raaa"
+INFO    2021-11-24 07:52:53,261 [main] manager.Main  - INFO
+DEBUG   2021-11-24 07:52:53,263 [main] manager.Main  - DEBUG
+WARN    2021-11-24 07:52:53,264 [main] manager.Main  - WARN
+ERROR   2021-11-24 07:52:53,264 [main] manager.Main  - ERROR
+FATAL   2021-11-24 07:52:53,264 [main] manager.Main  - FATAL
+INFO    2021-11-24 07:52:56,515 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 09:57:57,430 [main] manager.Main  - INFO
+DEBUG   2021-11-24 09:57:57,433 [main] manager.Main  - DEBUG
+WARN    2021-11-24 09:57:57,433 [main] manager.Main  - WARN
+ERROR   2021-11-24 09:57:57,433 [main] manager.Main  - ERROR
+FATAL   2021-11-24 09:57:57,434 [main] manager.Main  - FATAL
+INFO    2021-11-24 09:57:59,817 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 10:00:31,278 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:00:31,281 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:00:31,281 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:00:31,281 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:00:31,281 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:00:34,141 [main] connection_database.CandidateRepositoryImpl  - SQLServerPreparedStatement:1
+INFO    2021-11-24 10:02:30,447 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:02:30,449 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:02:30,450 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:02:30,450 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:02:30,450 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:02:33,918 [main] connection_database.CandidateRepositoryImpl  - SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+INFO    2021-11-24 10:06:38,389 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:06:38,392 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:06:38,393 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:06:38,393 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:06:38,393 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:06:41,112 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-24 10:06:51,364 [main] manager.CandidateManager  - Ngày sinh không hợp lệ.
+ERROR   2021-11-24 10:07:40,780 [main] manager.CandidateManager  - For input string: "acr"
+ERROR   2021-11-24 15:15:00,258 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:01,228 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:03,138 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:05,946 [main] manager.CandidateManager  - No line found
+ERROR   2021-11-25 10:44:17,438 [main] manager.Main  - ERROR
+FATAL   2021-11-25 10:44:17,439 [main] manager.Main  - FATAL
+ERROR   2021-11-25 10:49:05,580 [main] manager.Main  - ERROR
+FATAL   2021-11-25 10:49:05,581 [main] manager.Main  - FATAL
+ERROR   2021-11-25 10:50:09,502 [main] manager.Main  - ERROR
+FATAL   2021-11-25 10:50:09,502 [main] manager.Main  - FATAL
+ERROR   2021-11-25 10:50:55,650 [main] manager.Main  - ERROR
+ERROR   2021-11-25 11:25:19,671 [main] manager.Main  - ERROR
+ERROR   2021-11-25 11:28:30,759 [main] manager.Main  - ERROR
+ERROR   2021-11-25 11:29:53,453 [main] manager.CandidateManager  - Ngày sinh không hợp lệ.
+ERROR   2021-11-25 11:33:44,658 [main] manager.Main  - ERROR
+ERROR   2021-11-25 11:33:51,265 [main] manager.CandidateManager  - Ngày sinh không hợp lệ.
+ERROR   2021-11-25 11:33:58,964 [main] manager.CandidateManager  - Email này không hợp lệ 
+ERROR   2021-11-25 11:39:09,201 [main] manager.Main  - ERROR
+ERROR   2021-11-25 11:39:27,348 [main] manager.CandidateManager  - Email này không hợp lệ 
+ERROR   2021-11-25 11:48:19,482 [main] manager.CandidateManager  - No line found
+ERROR   2021-11-25 11:48:19,512 [main] manager.CandidateManager  - No line found
+ERROR   2021-11-26 23:14:39,198 [main] manager.Main  - ERROR
+ERROR   2021-11-28 00:31:37,539 [main] manager.Main  - ERROR
+ERROR   2021-11-29 12:48:09,780 [main] manager.Main  - ERROR
+ERROR   2021-11-29 12:48:45,130 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:41:55,450 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:42:34,846 [main] manager.CandidateManager  - For input string: ""
+ERROR   2021-11-29 14:44:50,699 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:45:13,969 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:45:36,230 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:46:57,986 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:51:02,428 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:51:51,641 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:52:20,156 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:52:46,109 [main] manager.Main  - ERROR
+ERROR   2021-11-29 14:56:25,183 [main] manager.Main  - ERROR

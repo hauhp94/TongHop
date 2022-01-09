@@ -1,0 +1,10 @@
+1,SP001,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com.vn,0909004001999,ACB,Lap trinh vien, FPT,5000000,null
+1,SP002,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,Lap trinh vien, FPT,5000000,null
+1,SP003,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,Lap trinh vien, FPT,5000000,null
+2,SP004,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,10,nghe thuat,5000000,null
+2,SP004,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,50,nhiep anh,5000000,null
+2,SP006,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACBd,70,BDS,5000000,null
+3,SP007,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,Anh Minh,7676898940,5000000,null
+3,SP008,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,Yen Phuc,123333222,5000000,null
+3,SP009,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACB,Phat Dat,123555443,5000000,null
+3,SP010,Nguyen Bao Anh, 10 Phan Chau Trinh,0905123234,anhbao@gmail.com,0909004001999,ACrB,Binh Minh,5345666555,5000000,null

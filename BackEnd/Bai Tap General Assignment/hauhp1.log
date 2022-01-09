@@ -1,0 +1,3 @@
+INFO    2021-11-23 15:49:29,199 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+WARN    2021-11-23 15:51:29,013 [main] manager.Main  - da nhap sai lua chon
+WARN    2021-11-23 15:54:04,117 [main] manager.Main  - da nhap sai lua chon

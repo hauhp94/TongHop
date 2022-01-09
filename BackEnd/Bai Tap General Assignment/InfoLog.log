@@ -1,0 +1,206 @@
+INFO    2021-11-23 15:59:37,545 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:01:34,729 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:01:54,524 [main] manager.Main  - The system has encountered an unexpected problem, sincerely sorry !!!
+INFO    2021-11-23 16:04:57,705 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:05:23,991 [main] manager.Main  - For input string: "G"
+INFO    2021-11-23 16:10:45,699 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:12:09,445 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 16:12:31,763 [main] manager.Main  - For input string: "RAAA"
+INFO    2021-11-23 16:18:38,006 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 16:19:50,035 [main] manager.Main  - INFO
+DEBUG   2021-11-23 16:19:50,040 [main] manager.Main  - DEBUG
+WARN    2021-11-23 16:19:50,041 [main] manager.Main  - WARN
+ERROR   2021-11-23 16:19:50,041 [main] manager.Main  - ERROR
+FATAL   2021-11-23 16:19:50,041 [main] manager.Main  - FATAL
+INFO    2021-11-23 16:19:56,415 [main] manager.Main  - SQLServerPreparedStatement:1
+ERROR   2021-11-23 20:41:56,989 [main] manager.Main  - ERROR
+FATAL   2021-11-23 20:41:57,044 [main] manager.Main  - FATAL
+INFO    2021-11-23 20:58:56,835 [main] manager.Main  - INFO
+DEBUG   2021-11-23 20:58:56,841 [main] manager.Main  - DEBUG
+WARN    2021-11-23 20:58:56,841 [main] manager.Main  - WARN
+ERROR   2021-11-23 20:58:56,841 [main] manager.Main  - ERROR
+FATAL   2021-11-23 20:58:56,842 [main] manager.Main  - FATAL
+INFO    2021-11-23 20:59:02,932 [main] manager.Main  - SQLServerPreparedStatement:1
+INFO    2021-11-23 21:00:17,161 [main] manager.Main  - INFO
+DEBUG   2021-11-23 21:00:17,166 [main] manager.Main  - DEBUG
+WARN    2021-11-23 21:00:17,166 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:00:17,166 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:00:17,166 [main] manager.Main  - FATAL
+WARN    2021-11-23 21:00:20,936 [main] manager.Main  - da nhap sai lua chon
+INFO    2021-11-23 21:17:52,837 [main] manager.Main  - INFO
+WARN    2021-11-23 21:17:52,840 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:17:52,840 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:17:52,840 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:17:56,711 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-23 21:18:28,496 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:18:28,497 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:21:14,768 [main] manager.Main  - INFO
+DEBUG   2021-11-23 21:21:14,771 [main] manager.Main  - DEBUG
+WARN    2021-11-23 21:21:14,771 [main] manager.Main  - WARN
+ERROR   2021-11-23 21:21:14,771 [main] manager.Main  - ERROR
+FATAL   2021-11-23 21:21:14,772 [main] manager.Main  - FATAL
+INFO    2021-11-23 21:21:17,264 [main] manager.Main  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 07:41:50,375 [main] manager.Main  - INFO
+DEBUG   2021-11-24 07:41:50,381 [main] manager.Main  - DEBUG
+WARN    2021-11-24 07:41:50,382 [main] manager.Main  - WARN
+ERROR   2021-11-24 07:41:50,382 [main] manager.Main  - ERROR
+FATAL   2021-11-24 07:41:50,383 [main] manager.Main  - FATAL
+INFO    2021-11-24 07:41:59,525 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-24 07:42:21,119 [main] manager.CandidateManager  - For input string: "raaa"
+INFO    2021-11-24 07:52:53,261 [main] manager.Main  - INFO
+DEBUG   2021-11-24 07:52:53,263 [main] manager.Main  - DEBUG
+WARN    2021-11-24 07:52:53,264 [main] manager.Main  - WARN
+ERROR   2021-11-24 07:52:53,264 [main] manager.Main  - ERROR
+FATAL   2021-11-24 07:52:53,264 [main] manager.Main  - FATAL
+INFO    2021-11-24 07:52:56,515 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 09:57:57,430 [main] manager.Main  - INFO
+DEBUG   2021-11-24 09:57:57,433 [main] manager.Main  - DEBUG
+WARN    2021-11-24 09:57:57,433 [main] manager.Main  - WARN
+ERROR   2021-11-24 09:57:57,433 [main] manager.Main  - ERROR
+FATAL   2021-11-24 09:57:57,434 [main] manager.Main  - FATAL
+INFO    2021-11-24 09:57:59,817 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-24 10:00:31,278 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:00:31,281 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:00:31,281 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:00:31,281 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:00:31,281 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:00:34,141 [main] connection_database.CandidateRepositoryImpl  - SQLServerPreparedStatement:1
+INFO    2021-11-24 10:02:30,447 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:02:30,449 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:02:30,450 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:02:30,450 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:02:30,450 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:02:33,918 [main] connection_database.CandidateRepositoryImpl  - SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+INFO    2021-11-24 10:06:38,389 [main] manager.Main  - INFO
+DEBUG   2021-11-24 10:06:38,392 [main] manager.Main  - DEBUG
+WARN    2021-11-24 10:06:38,393 [main] manager.Main  - WARN
+ERROR   2021-11-24 10:06:38,393 [main] manager.Main  - ERROR
+FATAL   2021-11-24 10:06:38,393 [main] manager.Main  - FATAL
+INFO    2021-11-24 10:06:41,112 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+ERROR   2021-11-24 10:06:51,364 [main] manager.CandidateManager  - Ngày sinh không hợp lệ.
+ERROR   2021-11-24 10:07:40,780 [main] manager.CandidateManager  - For input string: "acr"
+ERROR   2021-11-24 15:15:00,258 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:01,228 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:03,138 [main] manager.Main  - No line found
+ERROR   2021-11-24 15:15:05,946 [main] manager.CandidateManager  - No line found
+INFO    2021-11-25 10:44:17,426 [main] manager.Main  - INFO
+WARN    2021-11-25 10:44:17,438 [main] manager.Main  - WARN
+ERROR   2021-11-25 10:44:17,438 [main] manager.Main  - ERROR
+FATAL   2021-11-25 10:44:17,439 [main] manager.Main  - FATAL
+INFO    2021-11-25 10:49:05,578 [main] manager.Main  - INFO
+WARN    2021-11-25 10:49:05,580 [main] manager.Main  - WARN
+ERROR   2021-11-25 10:49:05,580 [main] manager.Main  - ERROR
+FATAL   2021-11-25 10:49:05,581 [main] manager.Main  - FATAL
+INFO    2021-11-25 10:50:09,500 [main] manager.Main  - INFO
+INFO    2021-11-25 10:50:55,647 [main] manager.Main  - INFO
+INFO    2021-11-25 11:25:19,669 [main] manager.Main  - INFO
+INFO    2021-11-25 11:25:47,767 [main] connection_database.CandidateRepositoryImpl  - SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+INFO    2021-11-25 11:28:30,757 [main] manager.Main  - INFO
+INFO    2021-11-25 11:28:33,699 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-25 11:28:34,583 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-25 11:29:46,011 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-25 11:33:44,655 [main] manager.Main  - INFO
+INFO    2021-11-25 11:33:46,170 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-25 11:39:09,199 [main] manager.Main  - INFO
+INFO    2021-11-25 11:39:13,978 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-25 11:39:53,137 [main] manager.CandidateManager  - Thêm mới intern thành công
+INFO    2021-11-25 11:40:04,471 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-25 11:40:04,564 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-25 11:40:44,210 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-26 23:14:39,182 [main] manager.Main  - INFO
+INFO    2021-11-26 23:14:41,629 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-26 23:14:42,818 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-28 00:31:37,537 [main] manager.Main  - INFO
+INFO    2021-11-28 00:31:54,504 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-28 00:31:55,703 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 12:48:09,724 [main] manager.Main  - INFO
+INFO    2021-11-29 12:48:45,127 [main] manager.Main  - INFO
+INFO    2021-11-29 12:49:14,495 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 12:49:15,569 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:41:55,446 [main] manager.Main  - INFO
+INFO    2021-11-29 14:42:02,059 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-29 14:42:38,274 [main] manager.MainController  - Da vao phuong thuc them moi ung vien
+INFO    2021-11-29 14:43:20,919 [main] manager.CandidateManager  - Thêm mới fresher thành công
+INFO    2021-11-29 14:43:23,594 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:43:23,795 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:43:40,932 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:43:51,119 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:43:51,270 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:44:06,646 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:44:14,600 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:44:24,075 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:44:44,705 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:44:44,776 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:44:50,696 [main] manager.Main  - INFO
+INFO    2021-11-29 14:44:53,016 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:44:54,398 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:45:13,966 [main] manager.Main  - INFO
+INFO    2021-11-29 14:45:15,751 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:45:16,916 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:45:36,226 [main] manager.Main  - INFO
+INFO    2021-11-29 14:45:38,591 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:45:46,835 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:46:57,984 [main] manager.Main  - INFO
+INFO    2021-11-29 14:47:43,820 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:47:43,959 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:51:02,426 [main] manager.Main  - INFO
+INFO    2021-11-29 14:51:03,661 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:51:04,713 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:51:51,637 [main] manager.Main  - INFO
+INFO    2021-11-29 14:51:53,715 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:51:54,480 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:52:20,154 [main] manager.Main  - INFO
+INFO    2021-11-29 14:52:21,535 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:52:22,309 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:52:46,107 [main] manager.Main  - INFO
+INFO    2021-11-29 14:52:47,778 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:52:48,544 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
+INFO    2021-11-29 14:56:25,181 [main] manager.Main  - INFO
+INFO    2021-11-29 14:56:28,011 [main] manager.MainController  - Da vao phuong thuc them hien thi danh sach ung vien
+INFO    2021-11-29 14:56:28,807 [main] connection_database.CandidateRepositoryImpl  - Nội dung câu lệnh truy vấn: 
+SELECT * FROM candidate JOIN candidateType ON CandidateType.CandidateTypeID = Candidate.CandidateTypeID
+SELECT * FROM dbo.Certificated WHERE CandidateID = ?
